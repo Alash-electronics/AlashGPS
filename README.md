@@ -55,6 +55,8 @@ void loop() {
 ### Тесты
 Разбор NMEA на настоящих строках (пример Wikipedia), контрольная сумма, полушария, местное время через полночь, расстояния проверены без железа: `extras/test`.
 
+Подробное руководство: [docs/WIKI.md](docs/WIKI.md).
+
 ---
 
 ## Қазақша
@@ -95,6 +97,8 @@ void loop() {
 
 ### Мысалдар
 `Basic`, `Clock`, `DistanceTo`, `Diagnose`, `ESP32_Serial2`.
+
+Толық нұсқаулық: [docs/WIKI.md](docs/WIKI.md).
 
 ---
 
@@ -138,6 +142,8 @@ void loop() {
 
 ### Examples
 `Basic`, `Clock`, `DistanceTo`, `Diagnose`, `ESP32_Serial2`.
+
+Full guide: [docs/WIKI.md](docs/WIKI.md).
 
 ### License
 MIT, Alash Electronics.
