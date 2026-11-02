@@ -1,5 +1,9 @@
-// AlashGPS на ESP32: свой аппаратный порт Serial2. Так делают, если нужны другие пины или скорость.
-// TX модуля -> GPIO16, RX модуля -> GPIO17.
+// [ru] AlashGPS на ESP32: свой аппаратный порт Serial2. Так делают, если нужны другие пины или скорость.
+//      TX модуля -> GPIO16, RX модуля -> GPIO17.
+// [kk] AlashGPS ESP32-де: өз аппараттық Serial2 порты. Басқа пиндер немесе жылдамдық керек болса осылай жасайды.
+//      Модуль TX -> GPIO16, модуль RX -> GPIO17.
+// [en] AlashGPS on ESP32: its own hardware port Serial2. Do this if you need other pins or a different speed.
+//      Module TX -> GPIO16, module RX -> GPIO17.
 #include <AlashGPS.h>
 
 AlashGPS gps;

@@ -1,5 +1,9 @@
-// AlashGPS: точные часы по спутникам. Время приходит от GPS, часовой пояс по умолчанию Казахстан (UTC+5).
-// Для другого пояса: gps.setTimezone(6); или gps.setTimezone(5.5);
+// [ru] AlashGPS: точные часы по спутникам. Время приходит от GPS, часовой пояс по умолчанию Казахстан (UTC+5).
+//      Для другого пояса: gps.setTimezone(6); или gps.setTimezone(5.5);
+// [kk] AlashGPS: серіктерден дәл сағат. Уақыт GPS-тен келеді, әдепкі уақыт белдеуі Қазақстан (UTC+5).
+//      Басқа белдеу үшін: gps.setTimezone(6); немесе gps.setTimezone(5.5);
+// [en] AlashGPS: accurate clock from satellites. The time comes from GPS, the default time zone is Kazakhstan (UTC+5).
+//      For another zone: gps.setTimezone(6); or gps.setTimezone(5.5);
 #include <AlashGPS.h>
 
 AlashGPS gps;

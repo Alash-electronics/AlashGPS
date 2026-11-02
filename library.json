@@ -1,6 +1,6 @@
 {
   "name": "AlashGPS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy GPS (NEO-6M, NMEA) library: position, speed, time, distance, clear tips (ru/kk/en), no TinyGPS needed",
   "keywords": "GPS, NEO-6M, NMEA, location, latitude, longitude, time, speed",
   "repository": { "type": "git", "url": "https://github.com/Alash-electronics/AlashGPS" },

@@ -1,5 +1,9 @@
-// AlashGPS: нет координат? Скетч послушает модуль 3 секунды и скажет, что не так:
-// нет данных, пришёл мусор или просто не видно спутников.
+// [ru] AlashGPS: нет координат? Скетч послушает модуль 3 секунды и скажет, что не так:
+//      нет данных, пришёл мусор или просто не видно спутников.
+// [kk] AlashGPS: координаттар жоқ па? Скетч модульді 3 секунд тыңдайды және не болғанын айтады:
+//      деректер жоқ, қоқыс келді немесе жай серіктер көрінбейді.
+// [en] AlashGPS: no coordinates? The sketch listens to the module for 3 seconds and says what is wrong:
+//      no data, garbage arrived, or simply no satellites are visible.
 #include <AlashGPS.h>
 
 AlashGPS gps;
